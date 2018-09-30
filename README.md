@@ -1,6 +1,6 @@
 # Book Rating System
 
-A simple python software to analyse books and users who have read them. Accomplished at [Codeacademy](https://www.codecademy.com/). Thanks to [addubinski](https://github.com/addubinski)
+A simple python software to analyse books and users who have read them. Accomplished at [Codeacademy](https://www.codecademy.com/) PRO Intensive class. Thanks to [addubinski](https://github.com/addubinski)
 
 ## Classes
 
