@@ -54,5 +54,3 @@ Class to analyse everything so far. Methods:
 - **most_positive_user()**: returns the users with the most generous ratings
 
 ## Enjoy and support!
-
-If you like the project please follow me on [Twitter](https://twitter.com/_huraji) and [Instagram](https://www.instagram.com/huraji/), or endorse on [Linkedin](https://www.linkedin.com/in/emanueledeboni). I'd really appreciate it. If you have still some free time check also [Xilab](https://xilab.co).
