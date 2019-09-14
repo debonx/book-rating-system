@@ -52,5 +52,3 @@ Class to analyse everything so far. Methods:
 - **get_most_read_book()**: gets the book read more times
 - **highest_rated_book()**: gets the highest rated book
 - **most_positive_user()**: returns the users with the most generous ratings
-
-## Enjoy and support!
